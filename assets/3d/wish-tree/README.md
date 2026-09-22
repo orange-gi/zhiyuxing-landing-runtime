@@ -56,13 +56,13 @@ The earlier 10.57 MB border-locked candidate did not reduce the disconnected lea
 - Size: 171,046 bytes
 - 1440×1080 WebP
 
-The Hero renders the poster immediately. The Three.js component is code-split and enabled after the first paint. The GLB then replaces the poster without a loading screen.
+The `/wish-tree` page renders the poster immediately. The Three.js scene is code-split and enabled after the first paint. The GLB then replaces the poster without a loading screen. The homepage must not load this scene or request the GLB.
 
 Poster-only fallback is intentional for Save-Data, 2G-class connections, <=2 GB reported device memory, WebGL creation/load failures, and detected software renderers such as SwiftShader/llvmpipe. `?three-review=1` is an internal forced-3D QA path and uses a reduced frame rate on software rendering.
 
 ## Interaction
 
-The Landing uses the same existing procedural wish-plaque implementation as the wish-tree experience.
+The `/wish-tree` page uses the same existing procedural wish-plaque implementation as the product wish-tree experience. The homepage only links into this page and does not render the 3D tree.
 
 1. Plaque remains attached to `ANCHOR_now`.
 2. First click moves the camera toward the original branch/anchor.
@@ -89,6 +89,7 @@ CHROMIUM_BIN=/data/runtimes/chromium/153.0.8010.0-linux-x64/chromium \
 - failed requests: 0
 - Save-Data fallback: poster only
 - SwiftShader/software-renderer fallback: poster only
+- homepage boundary: 0 3D scene instances and 0 GLB requests
 - server-side static capture sanity: 723×542, non-blank/high-variance render evidence
 
 The r03 Blender art candidate keeps its own art-approval lifecycle. This Landing derivative does not redefine or supersede that visual approval.
