@@ -1,0 +1,18 @@
+{
+  "version": "1.4",
+  "pipeline": "flat-paste-plaque",
+  "sources": {
+    "note": "bake 源图已于 2026-08-12 从仓库清理；运行时只依赖下方 maps。需重 bake 时从备份恢复 plaque-bake-reference 后再跑 scripts/wood-material/build_plaque_pbr.py"
+  },
+  "maps": {
+    "frontAlbedo": "/wish-plaque-wood-pbr/front-albedo.png",
+    "frontNormal": "/wish-plaque-wood-pbr/front-normal.png",
+    "frontRoughness": "/wish-plaque-wood-pbr/front-roughness.png"
+  },
+  "plaqueAspect": 0.5156,
+  "layoutSsot": "src/models/wish-plaque/wishPlaqueLayout.json",
+  "holeMeasure": "full-plaque-height-including-caps",
+  "woodCoverage": {
+    "front": 0.9945
+  }
+}

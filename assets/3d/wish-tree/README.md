@@ -71,6 +71,17 @@ The `/wish-tree` page uses the same existing procedural wish-plaque implementati
 
 The tree is not turned into a floating 3D UI card.
 
+### Plaque runtime assets
+
+The plaque wood surface reuses the tracked runtime textures under `public/wish-plaque-wood-pbr/`.
+These files are part of the repository and must be included in sparse worktrees/build contexts:
+
+- `front-albedo.webp` — first-frame front/back wood color
+- `front-normal.webp` — lazy-loaded when the plaque is focused
+- `front-roughness.webp` — lazy-loaded when the plaque is focused
+
+The mobile portrait camera intentionally permits a small amount of canopy crop instead of fitting the entire wide tree into a narrow viewport. This keeps the tree and hanging plaque readable at 390px-class widths. The focused plaque uses a longer mobile camera distance so the whole plaque remains visible during front/back reading.
+
 ## QA
 
 Run:
