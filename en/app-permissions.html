@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>知与行 — App permissions</title>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; max-width: 680px; margin: 0 auto; padding: 20px; line-height: 1.8; color: #333; }
+  h1 { font-size: 22px; text-align: center; margin-bottom: 4px; }
+  h2 { font-size: 17px; margin-top: 28px; border-bottom: 1px solid #eee; padding-bottom: 6px; }
+  h3 { font-size: 15px; margin-top: 20px; color: #555; }
+  p, li { font-size: 15px; }
+  .update-date { text-align: center; color: #888; font-size: 13px; margin-bottom: 24px; }
+  .contact { background: #f9f9f9; border-radius: 8px; padding: 16px; margin-top: 24px; }
+  strong { color: #111; }
+  .table-wrapper { overflow-x: auto; margin: 15px 0; }
+  table { width: 100%; border-collapse: collapse; font-size: 14px; min-width: 500px; }
+  th, td { padding: 10px; text-align: left; border: 1px solid #eee; }
+  th { background: #f9f9f9; font-weight: 500; }
+  td strong { font-size: 13px; word-break: break-all; }
+  a { color: #4D6BFF; }
+  ol { margin: 10px 0; padding-left: 24px; }
+  ol li { margin: 6px 0; }
+</style>
+</head>
+<body>
+
+<h1>App permissions</h1>
+<p class="update-date">Revised: 1 September 2026</p>
+<p>Chinese original: <a href="/app-permissions.html">/app-permissions.html</a></p>
+
+<h2>Overview</h2>
+<p>知与行 may request operating-system permissions to provide features and keep the app stable. Sensitive permissions are off by default and used only after you explicitly allow them. You can withdraw them at any time.</p>
+
+<h2>iOS permissions</h2>
+<div class="table-wrapper">
+<table>
+  <tr><th>Permission</th><th>What it does</th><th>When we use it</th></tr>
+  <tr><td><strong>NSCameraUsageDescription</strong></td><td>Camera</td><td>Take and send a photo</td></tr>
+  <tr><td><strong>NSPhotoLibraryAddUsageDescription</strong></td><td>Add to Photos</td><td>Save images to Photos</td></tr>
+  <tr><td><strong>NSPhotoLibraryUsageDescription</strong></td><td>Read Photos</td><td>Choose a photo to upload</td></tr>
+  <tr><td><strong>NSMicrophoneUsageDescription</strong></td><td>Microphone</td><td>Voice input</td></tr>
+  <tr><td><strong>NSSpeechRecognitionUsageDescription</strong></td><td>Speech recognition</td><td>Turn speech into text</td></tr>
+  <tr><td><strong>NSCalendarsUsageDescription</strong></td><td>Calendar</td><td>Import events you choose as 行 plans; we do not change Calendar</td></tr>
+  <tr><td><strong>NSCalendarsFullAccessUsageDescription</strong></td><td>Full Calendar access</td><td>Same, for iOS 17+ full-read access</td></tr>
+  <tr><td><strong>NSRemindersUsageDescription</strong></td><td>Reminders</td><td>Import reminders you choose as 行 plans; we do not change Reminders</td></tr>
+  <tr><td><strong>NSRemindersFullAccessUsageDescription</strong></td><td>Full Reminders access</td><td>Same, for iOS 17+ full-read access</td></tr>
+</table>
+</div>
+
+<h2>Managing permissions</h2>
+<ol>
+  <li>Open Settings on iPhone</li>
+  <li>Scroll to 知与行</li>
+  <li>Open the app settings</li>
+  <li>Turn each permission on or off</li>
+</ol>
+
+<h2>If you refuse or withdraw</h2>
+<ul>
+  <li><strong>Refuse</strong>: the related feature may be unavailable; other features still work</li>
+  <li><strong>Withdraw</strong>: turn it off in system settings; the related feature will stop working</li>
+</ul>
+
+<h2>Third-party SDKs</h2>
+<p>Partners such as Tencent Cloud and DeepSeek may also request system permissions for their features. See their policies:</p>
+<ul>
+  <li>Tencent CloudBase: <a href="https://cloudbase.net/privacy" target="_blank">View</a></li>
+  <li>DeepSeek: <a href="https://cdn.deepseek.com/policies/en-US/deepseek-privacy-policy.html" target="_blank">View</a></li>
+</ul>
+
+<h2>Contact</h2>
+<div class="contact">
+  <p><strong>Email</strong>: orange-gi@icloud.com</p>
+</div>
+
+<p style="text-align:center; color:#999; font-size:13px; margin-top:24px;">We will notify you in advance if this notice changes</p>
+
+</body>
+</html>
