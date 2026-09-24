@@ -1,0 +1,11 @@
+Poly Haven assets used in the wish-tree lakeshore
+
+Coast Rocks 05: https://polyhaven.com/a/coast_rocks_05
+Coast Sand Rocks 02: https://polyhaven.com/a/coast_sand_rocks_02
+
+Source license: CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+
+The source assets are supplied by Poly Haven. The web derivatives use reduced
+geometry and/or recompressed 1024px texture maps. These notices preserve asset
+provenance; attribution is not a requirement of CC0.
