@@ -1,7 +1,6 @@
 {
-  "release": "20260926-r2",
-  "source": "2695af2f7f2e7e68791632b5b03f50c9c362a50e",
-  "entry": "/play/",
-  "scope": "short-playable-preview",
-  "qa": "desktop, portrait CDP touch, landscape CDP touch, human rescue, self recovery, replay"
+  "release": "20260926-r3",
+  "source": "7335991c8c1319de9a46ece5e846f5b42820e9ae",
+  "entry_sha256": "8e1813e05fe7ad61414df3e89354b8896777c40fa715e2c309cb0c2cd225a836",
+  "background_sha256": "1fc8251c07def487289f986210ca7e1c570555c461dd7e37aee50be41ce43580"
 }
