@@ -1,5 +1,7 @@
-Generated deployment artifact. Source: orange-gi/zhiyuxing@6254d96b2e28596d5081544b4666442bafce6f05
-Dist index SHA-256: 35ac1d5c9991ac9167116b2189d01f6ab5d271905ab66048105bd4d3444e0530
-Play source: orange-gi/zhiyuxing@7335991c8c1319de9a46ece5e846f5b42820e9ae
-Play index SHA-256: 8e1813e05fe7ad61414df3e89354b8896777c40fa715e2c309cb0c2cd225a836
+Generated deployment artifact.
+Page base source: orange-gi/zhiyuxing@6254d96b2e28596d5081544b4666442bafce6f05
+Canopy source patch: orange-gi/zhiyuxing@fab51e644d313c1b5914c650273f3ee35ba4e0d6
+Build snapshot: orange-gi/zhiyuxing@4056d18cb35bd101c8d3b50ca3e55a11065cc60f
+Dist index SHA-256: 61676679f7b4ee68d7ca668d9fece443046f5ad90fbe08266f17d0556d431d17
+Preserved play source: orange-gi/zhiyuxing@7335991c8c1319de9a46ece5e846f5b42820e9ae
 Play release: 20260926-r3
