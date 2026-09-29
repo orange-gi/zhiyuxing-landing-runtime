@@ -1,8 +1,8 @@
 Generated deployment artifact.
 Source repository: orange-gi/zhiyuxing
-Mainline changes through: f8aaf1dcff2e51d8d21a4718480f788ef3ae42f9 (develop-windows)
-Build snapshot: orange-gi/zhiyuxing@12f312d0d3ec289c0ef504120d413d3953c259cd
-Release source tag: release/wish-tree-20260928
-Dist index SHA-256: b964faf00693c8a466dfa9cc76468b0636ed9a026d8f99328d92aef1f6bd317c
+Mainline changes through: cd88a59928ff9520688625f96da2537cfb6af649 (develop-windows)
+Build snapshot: orange-gi/zhiyuxing@cd88a59928ff9520688625f96da2537cfb6af649
+Release source tag: release/seo-articles-20260929
+Dist index SHA-256: dcecbd30802d8549e5dc680d3a8fdc868f212d7eef4f2ccf9f4b8e63c1c4989c
 Preserved play source: orange-gi/zhiyuxing@7335991c8c1319de9a46ece5e846f5b42820e9ae
 Play release: 20260926-r3
