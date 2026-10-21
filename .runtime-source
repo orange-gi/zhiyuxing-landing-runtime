@@ -1,8 +1,8 @@
 Generated deployment artifact.
 Source repository: orange-gi/zhiyuxing
-Mainline changes through: addaf12e05807d99f298fdf42c56d9f3fecdd323 (develop-windows)
-Build snapshot: orange-gi/zhiyuxing@addaf12e05807d99f298fdf42c56d9f3fecdd323
-Release purpose: public page canonical declarations (2026-10-11)
-Dist index SHA-256: 1328c1788914b262ae28e38b6ac52aaa0a94558019ab5878a59a9953f51fb064
+Mainline changes through: 5c11d0832142c42cf4ed1d0518c97ba1f4f74978 (develop-windows)
+Build snapshot: orange-gi/zhiyuxing@5c11d0832142c42cf4ed1d0518c97ba1f4f74978
+Release purpose: Baidu and Sogou public verification meta (2026-10-21)
+Dist index SHA-256: a4626e738ff3f5f6e8017069d7e64f5bf88f28bdd5a188705bdc10bf8a45704e
 Preserved play source: orange-gi/zhiyuxing@7335991c8c1319de9a46ece5e846f5b42820e9ae
 Play release: 20260926-r3
