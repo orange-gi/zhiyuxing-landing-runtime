@@ -1,9 +1,7 @@
 Generated deployment artifact.
 Source repository: orange-gi/zhiyuxing
-Mainline changes through: 8e825f861e0c59b56c1b68e3dbf63ae086fb489e (develop-windows)
-Build snapshot: orange-gi/zhiyuxing@8e825f861e0c59b56c1b68e3dbf63ae086fb489e
-Release purpose: corrected Sogou public verification meta; fourth character uppercase I (2026-10-21)
-Dist index SHA-256: b589b565486a415ac96f7b41b27c7d7388de8150744e76b780a740321a8d609c
+Build snapshot: orange-gi/zhiyuxing@842dd87176a024a531300e484fa7cecda92c7561
+Release purpose: approved gradient ribbon brand icons (2026-10-22)
+Dist index SHA-256: 03243eb7ef37e20718ac57640a6335ab5916318db397fa2e354dd8857872f3fd
 Preserved play source: orange-gi/zhiyuxing@7335991c8c1319de9a46ece5e846f5b42820e9ae
 Play release: 20260926-r3
-Superseded incorrect Sogou builds (DO NOT DEPLOY): source 5c11d0832142c42cf4ed1d0518c97ba1f4f74978; runtime 7d181303e5051f68c99bcea6088cee248ef1d50e
