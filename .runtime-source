@@ -1,7 +1,7 @@
 Generated deployment artifact.
 Source repository: orange-gi/zhiyuxing
-Build snapshot: orange-gi/zhiyuxing@4811cb11c9278decb17a39bb81d6b25a544592ed
-Release purpose: remove homepage preview notice and shorten join navigation labels
-Dist index SHA-256: 925589c5fdfca7944344744f9ce8fd1a7f7a894e95ad5b0e2154a7b262acc057
+Build snapshot: orange-gi/zhiyuxing@c2322073fb753af5a7aaaeeb7fe16ab1e198e7b1
+Release purpose: wish-tree startup performance and approved r06 loading poster
+Dist index SHA-256: 5a63839fc10fbbed12d8c6794501d982c3257a43118ef7ae541c998fcc642eba
 Preserved play source: orange-gi/zhiyuxing@7335991c8c1319de9a46ece5e846f5b42820e9ae
 Play release: 20260926-r3
