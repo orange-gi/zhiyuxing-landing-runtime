@@ -1,7 +1,7 @@
 Generated deployment artifact.
 Source repository: orange-gi/zhiyuxing
-Build snapshot: orange-gi/zhiyuxing@849b62c1e41369363ad84dab6226d022e7e501d8
-Release purpose: restore approved homepage card styling; update 2.1 preview content (2026-10-30)
-Dist index SHA-256: 328a8f77db12dcf7bd0c340776351d5a3d31e88d0821bacee9fda1ace6920b98
+Build snapshot: orange-gi/zhiyuxing@4811cb11c9278decb17a39bb81d6b25a544592ed
+Release purpose: remove homepage preview notice and shorten join navigation labels
+Dist index SHA-256: 925589c5fdfca7944344744f9ce8fd1a7f7a894e95ad5b0e2154a7b262acc057
 Preserved play source: orange-gi/zhiyuxing@7335991c8c1319de9a46ece5e846f5b42820e9ae
 Play release: 20260926-r3
