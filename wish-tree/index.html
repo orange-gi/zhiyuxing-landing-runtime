@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
   <head>
-    <meta charset="UTF-8" /><link rel="preload" as="image" fetchpriority="high" href="/assets/3d/wish-tree/wish-tree-canopy-r06-poster.webp" /><link rel="modulepreload" crossorigin href="/assets/WishTreeHero3D-DkK_F_y4.js" /><link rel="modulepreload" crossorigin href="/assets/index-2qtt5J4J.js" /><link rel="modulepreload" crossorigin href="/assets/wishTreeThreeObjects-BNli7mJr.js" /><link rel="modulepreload" crossorigin href="/assets/book-open-Vyz4Yl88.js" /><script>(function preloadWishTreeOverview(url) {
+    <meta charset="UTF-8" /><link rel="preload" as="image" fetchpriority="high" href="/assets/3d/wish-tree/wish-tree-canopy-r06-poster.webp" /><script>(function preloadWishTreeOverview(url) {
   var _a, _b, _c;
   const hints = navigator;
   if (((_a = hints.connection) == null ? void 0 : _a.saveData) || ((_c = (_b = hints.connection) == null ? void 0 : _b.effectiveType) == null ? void 0 : _c.includes("2g")) || hints.deviceMemory !== void 0 && hints.deviceMemory <= 2) return;
@@ -9,11 +9,21 @@
   const link = document.createElement("link");
   link.rel = "preload";
   link.as = "fetch";
+  link.setAttribute("fetchpriority", "high");
   link.crossOrigin = "anonymous";
   link.href = url;
   link.dataset.wishTreeOverview = "true";
   document.head.appendChild(link);
-})("/assets/3d/wish-tree/wish-tree-canopy-r06-mobile.glb?v=10")</script>
+})((function selectWishTreeOverview(rawUrl, gzipUrl) {
+  try {
+    if (typeof DecompressionStream !== "undefined") {
+      new DecompressionStream("gzip");
+      return gzipUrl;
+    }
+  } catch {
+  }
+  return rawUrl;
+})("/assets/3d/wish-tree/wish-tree-canopy-r06-mobile.glb?v=10","/assets/3d/wish-tree/wish-tree-canopy-r06-mobile.glb.gz?v=10"))</script><link rel="modulepreload" crossorigin href="/assets/WishTreeHero3D-CYuh0UZ2.js" /><link rel="modulepreload" crossorigin href="/assets/index-CSAhSeG8.js" /><link rel="modulepreload" crossorigin href="/assets/wishTreeThreeObjects-BNli7mJr.js" /><link rel="modulepreload" crossorigin href="/assets/book-open-ZKU8dReV.js" />
     <link rel="icon" type="image/svg+xml" href="/icon.svg?v=ribbon2" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="走进知与行愿望树，回看留下的觉察与愿望。" />
@@ -25,7 +35,7 @@
     <meta property="og:image" content="/assets/landing-v2/awareness-selection.webp" />
     <meta property="og:type" content="website" />
     <title>愿望树｜知与行</title>
-    <script type="module" crossorigin src="/assets/index-2qtt5J4J.js"></script>
+    <script type="module" crossorigin src="/assets/index-CSAhSeG8.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-DrgspqU9.css">
   <link rel="canonical" href="https://zhiyuxing.life/wish-tree" /><meta property="og:url" content="https://zhiyuxing.life/wish-tree" /></head>
   <body>
