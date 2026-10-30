@@ -15,7 +15,8 @@
     "/zhi-xing-he-yi-daily": "/zhi-xing-he-yi-daily/index.html",
     "/think-or-act-first": "/think-or-act-first/index.html",
     "/ai-self-reflection-smooth-narrative": "/ai-self-reflection-smooth-narrative/index.html",
-    "/long-term-memory-ai-boundaries": "/long-term-memory-ai-boundaries/index.html"
+    "/long-term-memory-ai-boundaries": "/long-term-memory-ai-boundaries/index.html",
+    "/overview.html": "/overview.html"
   },
   "fallback": "/spa.html"
 }
