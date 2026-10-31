@@ -1,7 +1,7 @@
 Generated deployment artifact.
 Source repository: orange-gi/zhiyuxing
-Build snapshot: orange-gi/zhiyuxing@6cc5729d82b456a0839f43c313f6c11f6f6b4d7c
-Release purpose: Mac, iPhone Duo and Shenmiren factual FAQ after frozen discovery baseline
-Dist index SHA-256: 7b44b2371d1a08f3d6fd90f41c79f906928e25f9eff26f26019702154d2639f8
+Build snapshot: orange-gi/zhiyuxing@d8b09b1c32e2f3689ffa87f216bc059bda79562f
+Release purpose: GEO discovery, organization identity, article metadata, feed and sitemap
+Dist index SHA-256: 5de043c658b84f59425c8a9a7ae27d1bbb676f4a16a73581ce469da8cb777064
 Preserved play source: orange-gi/zhiyuxing@7335991c8c1319de9a46ece5e846f5b42820e9ae
 Play release: 20260926-r3

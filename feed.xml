@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>知与行 · 文章</title>
+    <link>https://zhiyuxing.life/</link>
+    <description>知与行的中文文章：觉察、选择与回响。</description>
+    <language>zh-CN</language>
+    <atom:link href="https://zhiyuxing.life/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>知与行的 AI 对话和 ChatGPT 差在哪：记忆—选择—回响</title>
+      <link>https://zhiyuxing.life/private-ai-vs-chatgpt</link>
+      <guid isPermaLink="true">https://zhiyuxing.life/private-ai-vs-chatgpt</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
+      <description>知与行是一款以记录与计划为日常入口、支持自我探索的生活 App，围绕「长期记忆、主动选择与持续回响」展开。它陪你觉察，也陪你行动；不替你给标准答案，把选择权留在自己手里。</description>
+    </item>
+    <item>
+      <title>日记写了很多，为什么还是推不动自己？</title>
+      <link>https://zhiyuxing.life/diary-vs-action-echo</link>
+      <guid isPermaLink="true">https://zhiyuxing.life/diary-vs-action-echo</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
+      <description>有记无行时，缺的往往不是空白页，而是选择后的回响。把日记改写成可检验的最小行动；选择权在自己手里。</description>
+    </item>
+    <item>
+      <title>不想被标准答案和标签定义自己，那还剩什么？</title>
+      <link>https://zhiyuxing.life/not-defined-by-labels</link>
+      <guid isPermaLink="true">https://zhiyuxing.life/not-defined-by-labels</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
+      <description>撕掉标签之后，把选择权留在自己手里。知与行陪你觉察也陪你行动；不替你给标准答案。</description>
+    </item>
+    <item>
+      <title>知行合一的日常版：觉察 → 选择 → 回响</title>
+      <link>https://zhiyuxing.life/zhi-xing-he-yi-daily</link>
+      <guid isPermaLink="true">https://zhiyuxing.life/zhi-xing-he-yi-daily</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
+      <description>把知行合一落到今天可做的三步：觉察→选择→回响。不替你给标准答案，把选择权留在自己手里。</description>
+    </item>
+    <item>
+      <title>迷茫时先想清楚还是先动手？一份「可检验」的自我定向法</title>
+      <link>https://zhiyuxing.life/think-or-act-first</link>
+      <guid isPermaLink="true">https://zhiyuxing.life/think-or-act-first</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
+      <description>用方向假设与小步实验做自我定向，而不是等唯一正确答案。选择权在自己手里。</description>
+    </item>
+    <item>
+      <title>用 AI 自我反思时，怎样避免被「顺畅叙事」困住</title>
+      <link>https://zhiyuxing.life/ai-self-reflection-smooth-narrative</link>
+      <guid isPermaLink="true">https://zhiyuxing.life/ai-self-reflection-smooth-narrative</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
+      <description>分辨事实与推断，把选择权留在自己手里。记忆≠理解完成；不能替代专业帮助。</description>
+    </item>
+    <item>
+      <title>长期记忆 AI 适合什么、不适合什么（诚实边界）</title>
+      <link>https://zhiyuxing.life/long-term-memory-ai-boundaries</link>
+      <guid isPermaLink="true">https://zhiyuxing.life/long-term-memory-ai-boundaries</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
+      <description>有记忆≠懂你；先看清适合与不适合。知与行是一款以记录与计划为日常入口、支持自我探索的生活 App，围绕「长期记忆、主动选择与持续回响」展开。</description>
+    </item>
+    <item>
+      <title>知与行是什么｜适合谁、不适合谁</title>
+      <link>https://zhiyuxing.life/what-is-zhiyuxing</link>
+      <guid isPermaLink="true">https://zhiyuxing.life/what-is-zhiyuxing</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0800</pubDate>
+      <description>知与行在 iPhone、Mac 与 iPhone Duo 上呈现记录、计划与当下，也可从微信小程序开始。轻量记录生活、安排日常、探索自己。基础记录与手动计划免费，不必先聊天，Pro 按需选择。了解使用边界与平台入口。</description>
+    </item>
+    <item>
+      <title>工作两三年了，还不知道自己想要什么？</title>
+      <link>https://zhiyuxing.life/work-2-3-years-dont-know-what-i-want</link>
+      <guid isPermaLink="true">https://zhiyuxing.life/work-2-3-years-dont-know-what-i-want</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0800</pubDate>
+      <description>工作两三年方向模糊时，不必等唯一正确答案。用假设→最小行动→回响练习自我定向；选择权在自己手里。</description>
+    </item>
+    <item>
+      <title>终于不用只顾活下去之后：第一次学「为自己活」</title>
+      <link>https://zhiyuxing.life/beyond-survival-self-direction</link>
+      <guid isPermaLink="true">https://zhiyuxing.life/beyond-survival-self-direction</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0800</pubDate>
+      <description>走出生存模式后第一次学为自己活：命名失重、划清边界、三个最小练习。不替你给标准答案。</description>
+    </item>
+  </channel>
+</rss>

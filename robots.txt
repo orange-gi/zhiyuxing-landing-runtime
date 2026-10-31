@@ -1,4 +1,71 @@
+# 知与行 zhiyuxing.life
+# 本站在售前无登录/付费墙内容，全部页面均为公开营销与说明页。
+# 下列分组显式放行主流搜索引擎与 AI 检索/训练爬虫；分组仅作声明，权限与 User-agent: * 一致。
+# 国内 AI 爬虫的 UA 命名仍在演进，若标识有变，User-agent: * 仍按放行处理。
+
 User-agent: *
+Allow: /
+
+# OpenAI：训练 / 搜索索引 / 用户触发抓取
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+
+# Anthropic：训练 / 搜索 / 用户触发抓取
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: Claude-User
+Allow: /
+
+# Perplexity：索引 / 用户触发抓取
+User-agent: PerplexityBot
+Allow: /
+User-agent: Perplexity-User
+Allow: /
+
+# Google / Apple / Meta / Common Crawl
+User-agent: Googlebot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Applebot
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+User-agent: meta-externalagent
+Allow: /
+User-agent: CCBot
+Allow: /
+
+# 国内搜索引擎与 AI 助手
+User-agent: Baiduspider
+Allow: /
+User-agent: Baiduspider-render
+Allow: /
+User-agent: Sogou web spider
+Allow: /
+User-agent: Sogou Spider
+Allow: /
+User-agent: 360Spider
+Allow: /
+User-agent: HaosouSpider
+Allow: /
+User-agent: YisouSpider
+Allow: /
+User-agent: Bytespider
+Allow: /
+User-agent: MoonshotBot
+Allow: /
+User-agent: Kimi-Spider
+Allow: /
+User-agent: DeepSeekBot
+Allow: /
+User-agent: DoubaoBot
 Allow: /
 
 Sitemap: https://zhiyuxing.life/sitemap.xml
